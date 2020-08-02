@@ -32,3 +32,10 @@ Most major web browsers do not currently connect to blockchain networks, so we'l
 To install Metamask, visit this [link](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) or search for the Metamask Chrome plugin in the Google Chrome web store. 
 
 Once you’ve installed it, be sure that it is checked in your list of extensions. 
+
+# Project Setup
+Download all the files into a folder and open with VS Code, then run the following codes:
+
+`npm install`
+
+`npm start`
